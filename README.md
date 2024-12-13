@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I'm thrilled to welcome you to my GitHub profile, where I, a passionate Master of Data Science graduate, explore the multifaceted world of data and its boundless possibilities. With a strong foundation in data analytics and an insatiable curiosity for all things data-related, I would like to invite you to delve into the projects and repositories that reflect my journey and expertise in this dynamic field.
+I'm thrilled to welcome you to my GitHub profile, where I am a learner of Data Science which helps me to explore the multifaceted world of data and its boundless possibilities. With a strong foundation in data analytics and an insatiable curiosity for all things data-related, I would like to invite you to delve into the projects and repositories that reflect my journey and expertise in this dynamic field.
 
 📊 **Data Analysis, Power BI, Machine Learning, and Visualization**
 
