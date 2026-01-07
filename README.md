@@ -23,4 +23,3 @@ Thank you for visiting my GitHub profile. I'm excited to connect with fellow dat
 
 Happy Coding!
 
-Thanks!
