@@ -1,7 +1,4 @@
----
-title: "GitHub Profile"
-output: github_document
----
+
 
 ## 👋 Hi there, I’m Kushal!
 
