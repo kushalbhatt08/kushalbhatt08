@@ -1,26 +1,51 @@
+---
+title: "GitHub Profile"
+output: github_document
+---
 
-### Hi there 👋
-I'm thrilled to welcome you to my GitHub profile, where I am a learner of Data Science which helps me to explore the multifaceted world of data and its boundless possibilities. With a strong foundation in data analytics and an insatiable curiosity for all things data-related, I would like to invite you to delve into the projects and repositories that reflect my journey and expertise in this dynamic field.
+## 👋 Hi there, I’m Kushal!
 
-📊 **Data Analysis, Power BI, Machine Learning, and Visualization**
+Welcome to my GitHub profile — a space where I explore the **world of Data Science** and transform data into meaningful insights.
 
-My repositories encapsulate a fusion of skills and experiences in data exploration, machine learning, power BI, and data visualization. Here, you'll find a mosaic of projects that showcase my ability to extract meaningful insights, build predictive models, unravel the intricacies of language, and craft compelling data-driven visual narratives.
+I am a **Master of Data Science student at the University of Adelaide**, with a strong interest in data analytics, business intelligence, and machine learning. My work reflects both academic rigor and real-world problem solving.
 
-🚀 **Data-Driven Innovation**
+---
 
-I'm committed to harnessing the power of data to drive innovation. From uncovering hidden patterns and trends to developing intelligent algorithms, I thrive on transforming raw data into actionable knowledge that fuels decision-making and fosters innovation.
+## 📊 What You’ll Find Here
 
-🌐 **Endless Learning**
+My repositories showcase projects across:
 
-In the ever-evolving data landscape, I embrace continuous learning and exploration of emerging technologies and methodologies. My GitHub journey is a testament to my dedication to staying at the forefront of the data science field.
+- **Data Analysis & Statistical Modeling**
+- **Power BI & Business Intelligence Dashboards**
+- **Machine Learning & Predictive Analytics**
+- **Data Visualization & Storytelling**
+- **Python, SQL & Analytical Workflows**
 
-🤝 **Collaboration**
+Each project focuses on extracting value from data and communicating insights in a clear, decision-oriented way.
 
-I'm a firm believer in the collaborative spirit of the open-source community. If you share a passion for data and are interested in collaborating, exchanging ideas, or have questions about my projects, please don't hesitate to reach out. Together, we can push the boundaries of what's possible with data.
+---
 
-Thank you for visiting my GitHub profile. I'm excited to connect with fellow data enthusiasts, researchers, and professionals who are equally enthralled by the world of data science. Let's embark on this data-driven journey together, where curiosity knows no bounds and innovation is limitless. 🚀
+## 🚀 Data-Driven Innovation
 
+I am passionate about using data to support smarter decisions — from identifying trends and patterns to building intelligent, scalable solutions that solve practical problems.
 
-Happy Coding!
+---
 
+## 🌱 Continuous Learning
 
+Data science evolves fast, and so do I.  
+I actively upskill in emerging tools, techniques, and methodologies to stay aligned with industry needs.
+
+---
+
+## 🤝 Let’s Collaborate
+
+I strongly believe in the open-source mindset.  
+If you’re interested in collaboration, feedback, or discussion around my work, feel free to connect — I’m always open to learning and sharing.
+
+---
+
+Thank you for visiting my profile.  
+Let’s turn data into impact. 🚀
+
+**Happy Coding! 👨‍💻📊**
