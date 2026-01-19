@@ -4,7 +4,7 @@
 
 Welcome to my GitHub profile — a space where I explore the **world of Data Science** and transform data into meaningful insights.
 
-I am a **Master of Data Science student at the University of Adelaide**, with a strong interest in data analytics, business intelligence, and machine learning. My work reflects both academic rigor and real-world problem solving.
+I am a **Master of Data Science student at the Adelaide Univeristy**, with a strong interest in data analytics, business intelligence, and machine learning. My work reflects both academic rigor and real-world problem solving.
 
 ---
 
