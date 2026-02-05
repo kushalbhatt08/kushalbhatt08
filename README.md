@@ -2,7 +2,6 @@
 
 Master of Data Science candidate at the University of Adelaide, focused on transforming complex data into actionable insights through advanced analytics, machine learning, and business intelligence.
 
----
 
 ## About
 
