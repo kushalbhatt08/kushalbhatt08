@@ -1,50 +1,64 @@
+# Kushal — Data Science & Analytics
 
-
-# 👋 Hi there, I’m Kushal!
-
-Welcome to my GitHub profile — a space where I explore the **world of Data Science** and transform data into meaningful insights.
-
-I am a **Master of Data Science student at the Adelaide Univeristy**, with a strong interest in data analytics, business intelligence, and machine learning. My work reflects both academic rigor and real-world problem solving.
+Master of Data Science candidate at the University of Adelaide, focused on transforming complex data into actionable insights through advanced analytics, machine learning, and business intelligence.
 
 ---
 
-## 📊 What You’ll Find Here
+## About
 
-My repositories showcase projects across:
-
-- **Data Analysis & Statistical Modeling**
-- **Power BI & Business Intelligence Dashboards**
-- **Machine Learning & Predictive Analytics**
-- **Data Visualization & Storytelling**
-- **Python, SQL & Analytical Workflows**
-
-Each project focuses on extracting value from data and communicating insights in a clear, decision-oriented way.
+I specialize in end-to-end data solutions — from exploratory analysis and statistical modeling to deploying predictive systems and building interactive dashboards. My work bridges technical depth with business impact, ensuring that insights drive informed decision-making.
 
 ---
 
-## 🚀 Data-Driven Innovation
+## Core Competencies
 
-I am passionate about using data to support smarter decisions — from identifying trends and patterns to building intelligent, scalable solutions that solve practical problems.
+**Analytics & Modeling**  
+Statistical analysis, hypothesis testing, predictive modeling, feature engineering
 
----
+**Business Intelligence**  
+Power BI dashboards, KPI design, data storytelling, executive reporting
 
-## 🌱 Continuous Learning
+**Machine Learning**  
+Supervised/unsupervised learning, model evaluation, hyperparameter tuning, deployment pipelines
 
-Data science evolves fast, and so do I.  
-I actively upskill in emerging tools, techniques, and methodologies to stay aligned with industry needs.
-
----
-
-## 🤝 Let’s Collaborate
-
-I strongly believe in the open-source mindset.  
-If you’re interested in collaboration, feedback, or discussion around my work, feel free to connect — I’m always open to learning and sharing.
+**Technical Stack**  
+Python (pandas, scikit-learn, NumPy), SQL, Git, Jupyter, Power BI, Excel
 
 ---
 
-Thank you for visiting my profile.  
-Let’s turn data into impact. 🚀
+## Repository Highlights
 
-Thanks!
+My projects demonstrate practical applications across:
 
+- **Predictive Analytics** — Building models to forecast trends and inform strategy
+- **Dashboard Development** — Creating interactive BI solutions for stakeholder engagement
+- **Data Pipelines** — Designing reproducible workflows for cleaning, transformation, and analysis
+- **Exploratory Data Analysis** — Uncovering patterns and communicating findings through visualization
 
+Each repository includes clear documentation, reproducible code, and insights grounded in real-world context.
+
+---
+
+## Professional Approach
+
+I prioritize:
+
+- **Clarity** — Clean code, structured repositories, and transparent methodology
+- **Impact** — Solutions designed to solve problems, not just showcase techniques
+- **Rigor** — Adherence to best practices in data ethics, validation, and reproducibility
+
+---
+
+## Open to Collaboration
+
+I welcome discussions on:
+
+- Joint projects in applied data science or analytics
+- Code reviews and constructive feedback
+- Knowledge exchange on emerging tools and methodologies
+
+Feel free to explore my work, open an issue, or reach out directly.
+
+---
+
+**Let's build something meaningful with data.**
