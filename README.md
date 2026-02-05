@@ -1,6 +1,6 @@
 
 
-## 👋 Hi there, I’m Kushal!
+# 👋 Hi there, I’m Kushal!
 
 Welcome to my GitHub profile — a space where I explore the **world of Data Science** and transform data into meaningful insights.
 
