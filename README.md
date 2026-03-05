@@ -1,6 +1,6 @@
 # Hi, I'm Kushal Bhatt 👋
 
-**Data Science & Analytics | Adelaide University**
+**Data Science & Analytics | Adelaide Univeristy**
 
 Master of Data Science candidate passionate about transforming raw data into decisions that matter. I work at the intersection of analytics, machine learning, and business intelligence — building solutions that are both technically sound and practically useful.
 
@@ -40,7 +40,7 @@ I prioritise **clarity** in code and communication, **impact** over complexity, 
 - Collaboration on applied data science projects
 - Code reviews and knowledge exchange
 
-📩 **[Connect with me on LinkedIn](https://www.linkedin.com/in/kushal-bhatt)**
+📩 **[Connect with me on LinkedIn](https://www.linkedin.com/in/kushal-bhatt08/)**
 
 ---
 
