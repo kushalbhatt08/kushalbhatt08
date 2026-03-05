@@ -1,63 +1,47 @@
-# Kushal — Data Science & Analytics
+# Hi, I'm Kushal Bhatt 👋
 
-Master of Data Science candidate at the University of Adelaide, focused on transforming complex data into actionable insights through advanced analytics, machine learning, and business intelligence.
+**Data Science & Analytics | Adelaide University**
 
-
-## About
-
-I specialize in end-to-end data solutions — from exploratory analysis and statistical modeling to deploying predictive systems and building interactive dashboards. My work bridges technical depth with business impact, ensuring that insights drive informed decision-making.
+Master of Data Science candidate passionate about transforming raw data into decisions that matter. I work at the intersection of analytics, machine learning, and business intelligence — building solutions that are both technically sound and practically useful.
 
 ---
 
-## Core Competencies
+## 🛠️ Technical Skills
 
-**Analytics & Modeling**  
-Statistical analysis, hypothesis testing, predictive modeling, feature engineering
-
-**Business Intelligence**  
-Power BI dashboards, KPI design, data storytelling, executive reporting
-
-**Machine Learning**  
-Supervised/unsupervised learning, model evaluation, hyperparameter tuning, deployment pipelines
-
-**Technical Stack**  
-Python (pandas, scikit-learn, NumPy), SQL, Git, Jupyter, Power BI, Excel
+| Area | Tools & Technologies |
+|---|---|
+| **Languages** | Python · R · SQL |
+| **ML & Analytics** | scikit-learn · pandas · NumPy · Statistical Modelling |
+| **Business Intelligence** | Power BI · Dashboard Design · Data Storytelling |
+| **Workflow** | Jupyter · Git · Excel |
 
 ---
 
-## Repository Highlights
+## 📂 What You'll Find Here
 
-My projects demonstrate practical applications across:
+- **Predictive Analytics** — Models built to forecast trends and support strategic decisions
+- **BI Dashboards** — Interactive Power BI solutions designed for stakeholder clarity
+- **Data Pipelines** — Clean, reproducible workflows for data transformation and analysis
+- **Exploratory Analysis** — Pattern discovery through structured visualisation and reporting
 
-- **Predictive Analytics** — Building models to forecast trends and inform strategy
-- **Dashboard Development** — Creating interactive BI solutions for stakeholder engagement
-- **Data Pipelines** — Designing reproducible workflows for cleaning, transformation, and analysis
-- **Exploratory Data Analysis** — Uncovering patterns and communicating findings through visualization
-
-Each repository includes clear documentation, reproducible code, and insights grounded in real-world context.
+Each project includes clear documentation, reproducible code, and real-world context.
 
 ---
 
-## Professional Approach
+## 📌 My Approach
 
-I prioritize:
-
-- **Clarity** — Clean code, structured repositories, and transparent methodology
-- **Impact** — Solutions designed to solve problems, not just showcase techniques
-- **Rigor** — Adherence to best practices in data ethics, validation, and reproducibility
+I prioritise **clarity** in code and communication, **impact** over complexity, and **rigour** in methodology — from data ethics to model validation.
 
 ---
 
-## Open to Collaboration
+## 🤝 Open to
 
-I welcome discussions on:
+- Graduate roles & internships in **Data Analytics | Business Intelligence | Machine Learning**
+- Collaboration on applied data science projects
+- Code reviews and knowledge exchange
 
-- Joint projects in applied data science or analytics
-- Code reviews and constructive feedback
-- Knowledge exchange on emerging tools and methodologies
-
-Feel free to explore my work, open an issue, or reach out directly.
+📩 **[Connect with me on LinkedIn](https://www.linkedin.com/in/kushal-bhatt)**
 
 ---
 
-**Let's build something meaningful with data.**
+*Let's build something meaningful with data.*
