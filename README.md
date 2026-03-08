@@ -45,3 +45,5 @@ I prioritise **clarity** in code and communication, **impact** over complexity, 
 ---
 
 *Let's build something meaningful with data.*
+
+*Thanks*
