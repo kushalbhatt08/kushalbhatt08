@@ -2,7 +2,7 @@
 
 **Data Science & Analytics | Adelaide Univeristy**
 
-Master of Data Science candidate passionate about transforming raw data into decisions that matter. I work at the intersection of analytics, machine learning, and business intelligence — building solutions that are both technically sound and practically useful.
+Master of Data Science candidate passionate about transforming raw data into decisions that matter. I work at the intersection of analytics, machine learning, and business intelligence building solutions that are both technically sound and practically useful.
 
 ---
 
